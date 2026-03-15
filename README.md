@@ -1,6 +1,26 @@
 # Netflix-Customer-Churn-Prediction-using-Machine-Learning-Pipeline
 This project predicts whether a Netflix customer will churn or not. The model is built using a Scikit-Learn pipeline that handles preprocessing, encoding, feature selection, and model training. A Decision Tree classifier is used for prediction, and the trained pipeline is saved using pickle for future inference
 
+## Dataset
+The dataset used in this project is sourced from Kaggle.
+
+It contains customer information such as:
+
+* Age
+* Gender
+* Subscription type
+* Watch hours
+* Last login days
+* Region
+* Device
+* Monthly fee
+* Payment method
+* Number of profiles
+* Avg watch time per day
+
+The target variable is **churned**, which indicates whether the customer stopped using the service
+
+
 ## Project Workflow
 1. Data Loading and Exploration
 2. Data Preprocessing
