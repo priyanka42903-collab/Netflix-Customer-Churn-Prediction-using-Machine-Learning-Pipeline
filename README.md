@@ -18,7 +18,7 @@ It contains customer information such as:
 * Number of profiles
 * Avg watch time per day
 
-The target variable is **churned**, which indicates whether the customer stopped using the service
+The target variable is **churned**, which indicates whether the customer stopped using the service or not
 
 
 ## Project Workflow
